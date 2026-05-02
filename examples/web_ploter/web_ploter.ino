@@ -1,10 +1,6 @@
 /**
  * 7Semi AS7343 Web Plotter Example
  *
- * Library:
- * - Name    : 7Semi_AS7343
- * - Platform: Arduino / Embedded (I2C)
- *
  * Description:
  * - Initializes AS7343 spectral sensor
  * - Reads multi-channel spectral data (F1–F8, VIS, NIR)
