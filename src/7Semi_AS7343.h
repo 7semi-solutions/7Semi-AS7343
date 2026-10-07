@@ -1247,7 +1247,7 @@ public:
      * - true  → Conversion successful
      * - false → Read failed
      */
-    bool AS7343_7Semi::getRGB(uint16_t &r, uint16_t &g, uint16_t &b);
+    bool getRGB(uint16_t &r, uint16_t &g, uint16_t &b);
 
 private:
 
